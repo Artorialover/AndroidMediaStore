@@ -1,0 +1,3 @@
+include ':asukalib'
+include ':app'
+rootProject.name = "StroageDemo"
